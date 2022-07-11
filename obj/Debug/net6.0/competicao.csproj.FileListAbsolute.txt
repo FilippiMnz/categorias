@@ -1,0 +1,15 @@
+/home/lipin-dev/projetos-C#/competicao/bin/Debug/net6.0/competicao
+/home/lipin-dev/projetos-C#/competicao/bin/Debug/net6.0/competicao.deps.json
+/home/lipin-dev/projetos-C#/competicao/bin/Debug/net6.0/competicao.runtimeconfig.json
+/home/lipin-dev/projetos-C#/competicao/bin/Debug/net6.0/competicao.dll
+/home/lipin-dev/projetos-C#/competicao/bin/Debug/net6.0/competicao.pdb
+/home/lipin-dev/projetos-C#/competicao/obj/Debug/net6.0/competicao.csproj.AssemblyReference.cache
+/home/lipin-dev/projetos-C#/competicao/obj/Debug/net6.0/competicao.GeneratedMSBuildEditorConfig.editorconfig
+/home/lipin-dev/projetos-C#/competicao/obj/Debug/net6.0/competicao.AssemblyInfoInputs.cache
+/home/lipin-dev/projetos-C#/competicao/obj/Debug/net6.0/competicao.AssemblyInfo.cs
+/home/lipin-dev/projetos-C#/competicao/obj/Debug/net6.0/competicao.csproj.CoreCompileInputs.cache
+/home/lipin-dev/projetos-C#/competicao/obj/Debug/net6.0/competicao.dll
+/home/lipin-dev/projetos-C#/competicao/obj/Debug/net6.0/refint/competicao.dll
+/home/lipin-dev/projetos-C#/competicao/obj/Debug/net6.0/competicao.pdb
+/home/lipin-dev/projetos-C#/competicao/obj/Debug/net6.0/competicao.genruntimeconfig.cache
+/home/lipin-dev/projetos-C#/competicao/obj/Debug/net6.0/ref/competicao.dll
